@@ -1,2 +1,2 @@
 # Sample-repo-SL
-Try_out Forking
+Try_out Forking from VM
